@@ -1,0 +1,18 @@
+# Python -- Install Python   --- Done 
+# VS CODE -- Instalation -- Done
+# Running Hello World - Done
+
+
+# Opening a folder in VS Code -- using the terminal 
+
+1. Using the menu options --> file --> open folder --> select the folder
+2. going to folder ---> typing the cmd in the path ---> (in cmd terminal type )code . -- Done
+
+
+# Creating file :
+1. using the menu options --> file --> new file --> name the file --> type the extension (.py) --> Done
+
+# Running the python code :
+1. using the menu options --> Terminal --> new terminal --> (type) py file -- Enter
+2. using code runner extension --> right click on the file --> Run code
+
