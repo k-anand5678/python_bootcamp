@@ -6,7 +6,7 @@
 # x = 5
 
 # If we have to print it 100 times
-#Frist case: 1 - directly printing thre message without storing in a variable
+#First case: 1 - directly printing thre message without storing in a variable
 # print("Hello")
 # print("Hello")
 # print("Hello")
