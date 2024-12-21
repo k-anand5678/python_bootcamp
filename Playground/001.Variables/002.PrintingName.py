@@ -2,6 +2,6 @@
 
 print("kyaas")
 
-# by storing the same in a variable
+# By storing the same in a variable
 x="kyaas"
 print(x)
