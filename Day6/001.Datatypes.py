@@ -11,11 +11,13 @@
 x = "Hello"
 # x = 30 
 # x = 40.6
-# x = False    
+x = False    
 # True == 1 / False == 0  
+x= True
+
 
 # binary Langauge -- 0 ,1 
-# print(x+10)
+print(x+10)
 
 # type() -- Will return the type of the variable 
 
@@ -37,8 +39,8 @@ print("Hello")   # HELLO - H - 72 --> In the sequence of 0 and 1
 print(30) #  30 -- In the sequence of 0 and 1 
 
 # ASCII Code -- H  
-# c = 'p'
-# print("The ASCII value of '" + c + "' is", ord(c))
+c = 'p'
+print("The ASCII value of '" + c + "' is", ord(c))
 
 
 
