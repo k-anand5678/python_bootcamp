@@ -39,7 +39,3 @@ print(30) #  30 -- In the sequence of 0 and 1
 # ASCII Code -- H  
 # c = 'p'
 # print("The ASCII value of '" + c + "' is", ord(c))
-
-
-
-
